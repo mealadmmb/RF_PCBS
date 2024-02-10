@@ -1,13 +1,14 @@
 # Power amplifier 1Watt- 30MHz to 2700MHz 
-Use it safely. it is a little bit dangerous to use it nearby.
+Use it safely. :D
 
-- 400ma Current consumption 
-- 34 db gain
-- Internally matched transistor
-- ✨Magic ✨
+- not isolated by DC
+- -4 db gain
+- 1 db amplitude unblancy
+- 1 degree phase unbalancy 
+
 
 ## Features
-Very good and compatible Rf amplifier
+Simple to use.
 ## License
 
 mealadmmb@gmail.com

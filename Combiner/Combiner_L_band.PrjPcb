@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Amp_1watt_30MHz_2700MHz.SchDoc
+DocumentPath=TCP_2_25.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,10 +63,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FZOQULRV
+DocumentUniqueId=ASEAUCUD
 
 [Document2]
-DocumentPath=Amp_1watt_30MHz_2700MHz.PcbDoc
+DocumentPath=Combiner.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,11 +80,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QLYJDKVK
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for poweramp_1watt_30MHz_2700MHz\Design Rule Check - Amp_1watt_30MHz_2700MHz.html
-DItemRevisionGUID=
+DocumentUniqueId=HJMUXPGY
 
 [Configuration1]
 Name=Sources
