@@ -1,10 +1,6 @@
-# Power amplifier 1Watt- 30MHz to 2700MHz 
+# T bias no need to explain 
 Use it safely. :D
 
-- not isolated by DC
-- -4 db gain
-- 1 db amplitude unblancy
-- 1 degree phase unbalancy 
 
 
 ## Features
