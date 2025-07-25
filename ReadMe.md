@@ -1,6 +1,6 @@
-# RF_PCBs
-You can find some Simple RF boards such as PowerAmp, T_bias, Combiner.   
-Just swith between branches.
+# Twin GPS L1 Active Antennas
+dBi: 2   
+gain: 13dB     
 
 ## Features
 Simple to use.
