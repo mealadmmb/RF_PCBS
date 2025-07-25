@@ -1,6 +1,5 @@
 # RF_PCBs
-You can find some Simple RF boards such as PowerAmp, T_bias, Combiner.   
-Just swith between branches.
+This repository you can find a GPS L1 active and passsive anttenas. 
 
 ## Features
 Simple to use.
@@ -9,5 +8,4 @@ Simple to use.
 mealadmmb@gmail.com
 
 **Free To use. enjoy**
-
 
