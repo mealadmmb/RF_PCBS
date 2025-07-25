@@ -1,6 +1,5 @@
 # RF_PCBs
-You can find some Simple RF boards such as PowerAmp, T_bias, Combiner.   
-Just swith between branches.
+This repository you can find a complete Zedf9 PCB module. 
 
 ## Features
 Simple to use.
