@@ -1,6 +1,8 @@
 # HPF V1.0 - 8MHz High-Pass Filter
 
 ![HPF V1.0 3D Render](./Image/HPF_FILTER.jpg)
+![HPF V1.0 3D Render](./Image/Design_filter.jpg)
+
 
 ## Overview
 This repository contains the design files and fabrication details for the **HPF V1.0**, a compact passive High-Pass Filter PCB. It is designed to attenuate frequencies below 8MHz, making it ideal for RF signal conditioning and noise reduction applications.
